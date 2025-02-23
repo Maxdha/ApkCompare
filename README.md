@@ -16,8 +16,8 @@ A tool to compare differences between two APK files by decompiling them to smali
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/apk-compare-tool.git
-   cd apk-compare-tool
+   git clone https://github.com/Maxdha/ApkCompare.git
+   cd ApkCompare
    ```
 2. Download `apktool.jar` from [official site](https://ibotpeaches.github.io/Apktool/) and place it in the project directory
 
